@@ -2,6 +2,13 @@
 
 Advanced AI-powered tool for CRISPR-Cas9 sequence analysis and optimization. Features real-time visualization, efficiency prediction, and off-target risk assessment.
 
+## Interface Preview
+<img src="crispr1.png" width="600" alt="GUI Preview">
+<!-- With custom size -->
+<img src="crispr2.png" width="600" alt="GUI Preview">
+<!-- With custom size -->
+
+
 ## Features
 
 - Interactive GUI with tabbed interface
