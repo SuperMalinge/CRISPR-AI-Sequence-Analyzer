@@ -83,8 +83,11 @@ app.analyze_sequence()
 
 
 Custom Parameter Settings:
+
 app = CRISPRGui()
+
 app.efficiency_threshold.set(0.8)  # Higher efficiency threshold
+
 app.offtarget_tolerance.set(0.2)   # Stricter off-target control
 
 
